@@ -1,1 +1,24 @@
-
+{
+    "type": "theme",
+    "name": "Storm Chaser",
+    "author": "zenitsu132",
+    "description": "Charcoal with electric blue and warning-orange accents",
+    "version": "1.0.0",
+    "base": "dark",
+    "colors": {
+        "canvas": "0a0c0f",
+         "surface-1": "#12161b",
+    "surface-2": "#1a2027",
+    "surface-3": "#242c35",
+    "line": "#1e252d",
+    "line-strong": "#323d49",
+    "ink": "#eef2f6",
+    "ink-2": "#aab4c0",
+    "ink-3": "#8591a0",
+    "accent": "#3db9ff",
+    "go": "#3ecf8e",
+    "caution": "#ff9f1c",
+    "nogo": "#ff4d5e",
+    "grid": "#141a20"
+  }
+}
